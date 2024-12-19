@@ -47,7 +47,8 @@
 - Face value can be different for different companies and is decided by the promoters of the company.
 - Value returned on the face of the document.
 - FV will atleast be 1 and in multiple of one's
-
+- Remains constant unless there is a stock split
+  
 -> a pvt ltd company converts to public ltd (or ltd) when there are more investors (or shareholders) other than the promoters.
 
 -> pvt ltd company --> public ltd company --> listed company
