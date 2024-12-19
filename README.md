@@ -1,40 +1,52 @@
-# LECTURE 1
+# *LECTURE 1*
 -> 9:15 to 3:30 - Business hours
 -> CNBC
 
--> LTCG - Long term capital gain : If a person holds a share for more than one year and earns a profit it is known as LTCG.
+### LTCG and Dividend
 
--> Dividend : Return on investment in shares.
+- LTCG - Long term capital gain : If a person holds a share for more than one year and earns a profit it is known as LTCG.
+
+- Dividend : Return on investment in shares.
 
 > It's the company's decision whether to declare the dividend or not or it's not mandatory to give dividend unlike Interest.
 
--> Dividend and LTCG are tax free for individuals. 
+- Dividend and LTCG are tax free for individuals. 
 
 > Subject to limits
 
-> limit - 10,00,000 per year
+> limit for divident - 10,00,000 and above that 10%
+
+> limit for LTCG - 1,00,000 and above that 10%
 
 -> Interest is given on Fixed deposits in banks
 
--> Promoter is a person who starts the company
+### Promoter
 
-> Promoter of Reliance company is Dhirubai Ambani.
+- Promoter is a person who starts the company
 
-> There can be multiple Promoters.
+- Promoter of Reliance company is Dhirubai Ambani.
 
--> Share certificate includes Name of the shareholder, Face value (decided by the Promoters), Number of shares (Amount invested divided by the face value).
+- There can be multiple Promoters.
 
-> Shareholders get a share certificate.
+### Share Certificate
 
-> In physical format or Demat format.
+- Share certificate includes Name of the shareholder, Face value (decided by the Promoters), Number of shares (Amount invested divided by the face value).
 
--> Demat - Dematerialized securities : For companies that are listed.
+- Shareholders get a share certificate.
+
+- In physical format or Demat format.
+
+> Demat - Dematerialized securities : For companies that are listed.
 
 -> Annual Report : Report of the company.
 
 > Gives information about number of physical or Dematerialized formats.
 
--> Face value can be different for different companies and is decided by the promoters of the company. 
+### Face Value
+
+- Face value can be different for different companies and is decided by the promoters of the company.
+- Value returned on the face of the document.
+- FV will atleast be 1 and in multiple of one's
 
 -> a pvt ltd company converts to public ltd (or ltd) when there are more investors (or shareholders) other than the promoters.
 
@@ -44,11 +56,13 @@
 
 -> Profit before Tax = turnover - expenses
 
--> Topline means Turnover
+### Topline and Bottomline
 
--> Bottomline means Profit after Tax
+- Topline means Turnover
 
--> Usually profit increases with turnover. But Profit might decrease even with increase in Turnover when expenses increase out of proportion.
+- Bottomline means Profit after Tax
+
+- Usually profit increases with turnover. But Profit might decrease even with increase in Turnover when expenses increase out of proportion.
 
 ### STOCK SPLIT 
 
@@ -69,13 +83,36 @@ Value| 100000 | 100000 |
      
 - Stock splits so that Market price decreases and more people can buy the shares (increase liquidity). It's neither good nor bad.
 
-### MYTHS
+### Security Market
+- Stock Market
+
+### Primary and Secondary Market
+- Primary : includes IPOs, company to investor
+- Secondary : Investor to Investor
+
+## Necessary accounts
+ ### 1. Demat Account
+ - Cupboard to trade
+ ### 2. Trading Account
+ - Path to trade
+ ### 3. Savings Account
+
+## Contract Note
+- Number of shares
+- Settlement date
+- Trade date
+- Order number
+- Price at which bought
+- Taxes
+- Mandatory to give to the broker
+
+## MYTHS
 1. Investment in risky. (In short term might be, in long term no)
 2. You need to have finance knowledge or finance background.
 3. You need to have a lot of money to invest.
 4. Renowned company never give strong returns.
 
-# LECTURE 2
+# *LECTURE 2*
 
 -> www.moneycontrol.com
 
@@ -126,10 +163,10 @@ Value| 100000 | 100000 |
 -> Sell price 
 > Best selling price
 
--> Volume
-> Number of shares that were traded during the day.
+### Volume
+- Number of shares that were traded during the day.
 
-> If 100 sold and 100 bought --> Volume is 100 and not 200
+- If 100 sold and 100 bought --> Volume is 100 and not 200
 
 -> Today's low and high
 > Today's lowest and highest price of the company
@@ -137,7 +174,7 @@ Value| 100000 | 100000 |
 -> 52 wk low/high
 > 1 year's lowest and highest price.
 
--> Therefore price can be different for BSE and NSE due to change in demand and supply.
+*Price can be different for BSE and NSE due to change in demand and supply.*
 
 ## Corporate Actions
 - Board Meetings : BOD - Board of directors meeting
@@ -172,10 +209,81 @@ Value| 100000 | 100000 |
   > You can buy bonus till one date before this date.
 
 
-## Secondary Market
+# Secondary Market
 
 - where securities once issued are brought and sold between investors.
 - if it is between a company and investor it is a primary market.
 
+## Market Structure
+
+### 1. Stock Exchange
+- Platform for investors to buy and sell from each other.
+- The three national stock exchanges in India:
+  1. NSE (National Stock Exchange)
+  2. BSE (Bombay Stock Exchange)
+  3. MSEI (earlier known as MCX - Multi commodity exchange)
+     > Commodity included gold, silver, grains etc.
+  -> Cannot buy directly from Stock exchange.
+     
+### 2. Members
+- Brokers
+- Investors can trade in secondary market only through members of stock exchange.
+- Ex: Motilal oswaal, Sherkhaan, ICICI exchange, HDFC exchange
+
+### 3. Investors
+- RII - Retail Individual Investors
+  > People like you and me - retails
+  
+  > invests less than or equal to 2,00,000 rupees
+  
+- HNI - High Networth Individuals
+  > Invests in IPOs for an amount greater than 2 lakh rupees
+
+- DII - Domestic Institutional Investor
+  > Banks, Insurance companies, Mutual Funds
+  
+- FII - Foreign Institutional Investor
+  > aka FPI - Foreign Portfolio Investor
+
+  > Comes from foreign funding
+
+### 4. Issuers
+- Companies that list their securites on the stock exchange.
+
+### 5. Financial Intermediatories
+
+### 6. Regulators
+
+## Trading, Clearing and Settlement
+- Three diff phases of secondary market transactions.
+  > Trading - Buying or Selling
+
+  > Clearing - Matching whether available to buy/sell or not
+  > Settlement - If cleared then settlement is done.
+  
+- Matching system that facilititaes eficient and speedy execution of trades
+- Trade takes place on say T day, it is settles after twp business days after the trading day (T+2)
+
+- NSCLL (National Securities Clearing Corporation Ltd) is the clearing house of NSE
+- ICCL (Indian Cleaing Corporation Limited) is the clearing house of BSE
+- Metropolitan Clear is the clearing house for MSEI
+
+## Depositories and DPs
+
+Investor has some physical share certificate --> Investor gives to Broker --> Broker forwards to the company --> Company forwards to Depositories.
+
+- Depositories converts Physical format to Demat format.
+
+- Indian Depositories: 
+
+  1. NSDL (National Securities Depository Ltd)
+  2. CDSL (Central Depository Service Ltd)
+
+- Depository has the e-list of all the share holder. It is provided directly by the stock exchange or through the broker.
+ 
+ ### DP (Depository Participant)
+  - Basically the broker
+  - Broker opens account with the depository
+  - Our account is indirectly opened in the depository through the broker
 
   
