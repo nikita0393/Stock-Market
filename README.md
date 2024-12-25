@@ -91,13 +91,6 @@ Value| 100000 | 100000 |
 - Primary : includes IPOs, company to investor
 - Secondary : Investor to Investor
 
-## Necessary accounts
- ### 1. Demat Account
- - Cupboard to trade
- ### 2. Trading Account
- - Path to trade
- ### 3. Savings Account
-
 ## Contract Note
 - Number of shares
 - Settlement date
@@ -114,6 +107,73 @@ Value| 100000 | 100000 |
 4. Renowned company never give strong returns.
 
 # *LECTURE 2*
+
+-> A physical share certificate is of no use after stock split because the face value is printed.
+
+## Bonus Share
+- Bonus share means Free share
+- Free shares issued by the company to the investors
+- Company declares the bonus ratio
+- FV remains same
+- Numbers of share changes
+  
+### Bonus ratio
+1:1 - For every 1 share held you will get one bonus share
+
+### Example
+- Let's take example of 1:1
+- Cum Bonus
+> Original MP (Before Bonus) - 1000
+
+> 1 share
+
+- Ex Bonus
+> Post Bonus - 500 (total value remains same)
+
+> 2 shares
+
+*Share prices are decided by the Demand and Supply in the market (Market forces).*
+
+## Types of Security Market
+
+1. Primary market
+2. Secondary market
+
+*Maximum number of members in a private limited company is 200*
+  > Private ltd company --> public ltd company --> reach the stock exchange to go PAN india(all over india) --> becomes listed on the stock exchange --> thus they enter the primary market --> Once listed and you want to sell the share it'll be done in secondary market now
+
+### 1. Primary Market
+*Pehli baar*
+- aka New Issue Market
+- Company comes up with an IPO
+  >IPO - Initial Public Offer through primary market
+
+- Transaction is directly between Issuer company and investor
+- Investor gives money to Issuer company and Company gives shares to the investor
+
+### 2. Secondary Market
+*Not pehli baar*
+- aka Securities/Stock Exchange
+- BSE & NSE are two stock exchanges
+- Transaction is between Between an investor and the other investor
+
+  ### BSE - Bombay Stock Exchange
+  ### NSE - National Stock Exchange
+  ### Both are located in Bombay
+
+## Types of Account
+### 1. DeMAT account
+-Account used to store shares
+-You store the bought shares in DeMAT account
+### 2. Trading account
+-Account through which we can trade(buy/sell) shares
+### 3. Saving(SB) account
+
+### *Banks cannot be brokers.*
+> HDFC is not a broker but HDFC securities is a broker. They offer 3 in 1 account
+
+
+# *LECTURE 3*
 
 -> www.moneycontrol.com
 
@@ -286,5 +346,8 @@ Investor has some physical share certificate --> Investor gives to Broker --> Br
   - Basically the broker
   - Broker opens account with the depository
   - Our account is indirectly opened in the depository through the broker
+
+
+
 
   
